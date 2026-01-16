@@ -1,105 +1,136 @@
-<!--
-██████╗  █████╗ ████████╗███╗   ███╗ █████╗ ███╗   ██╗
-██╔══██╗██╔══██╗╚══██╔══╝████╗ ████║██╔══██╗████╗  ██║
-██████╔╝███████║   ██║   ██╔████╔██║███████║██╔██╗ ██║
-██╔══██╗██╔══██║   ██║   ██║╚██╔╝██║██╔══██║██║╚██╗██║
-██████╔╝██║  ██║   ██║   ██║ ╚═╝ ██║██║  ██║██║ ╚████║
-╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
--->
+<!-- =======================
+     THE DARK KNIGHT MODE
+======================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1c1c1c&height=200&section=header&text=I%20Am%20The%20Night&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1c1f26&height=160&section=header&text=I%20Am%20The%20Night&fontSize=36&fontColor=E6C36A&fontAlignY=55" />
 </p>
 
-<h1 align="center">🦇 Leela Lochan Madisetti</h1>
-<h3 align="center">Data Engineer | Software Engineer | Builder of Scalable Systems</h3>
+<h1 align="center" style="color:#E6C36A;">Leela Lochan Madisetti</h1>
 
 <p align="center">
-  <em>“It’s not who I am underneath, but what I build that defines me.”</em>
+  <span style="color:#9da5b4;">Data Engineer · Software Engineer · Cloud & Distributed Systems</span>
+</p>
+
+<!-- Dynamic Typing Hero -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=E6C36A&center=true&vCenter=true&width=700&lines=Data+Engineer+by+Day;Dark+Knight+of+Data+by+Night;DC+Comics+Enthusiast+%7C+Batman+Fan;Building+Reliable+Systems+in+Gotham" />
+</p>
+
+<p align="center">
+  <em style="color:#7f848e;">Building reliable systems in the dark, so data works in the light.</em>
 </p>
 
 ---
 
-## 🕶️ About Me
-- 🎓 **MS in Computer Science** @ Illinois Institute of Technology (Graduating May 2025)
-- 💼 Former **Systems Engineer @ TCS**
-- 🧠 Passionate about **Data Engineering, Distributed Systems, and Cloud Architectures**
-- 🌃 Currently operating from **Gotham (Chicago, USA)**
+## 🦇 Profile
+
+I am a **Computer Science graduate student** at **Illinois Institute of Technology**, with prior industry experience as a **Systems Engineer at Tata Consultancy Services**.  
+My focus lies in designing **scalable data platforms**, **event-driven pipelines**, and **cloud-native architectures** with production-level discipline.
+
+- 🎓 MS Computer Science — *May 2025*
+- 💼 Analyst @ HDSupply
+- 💼 Ex-Systems Engineer — *TCS*
+- 🌃 Based in **Atlanta, USA**
+- 🎯 Targeting **Data Engineer / Software Engineer** roles
 
 ---
 
-## 🦇 Tech Arsenal (Utility Belt)
+## 🦇 Gotham Principles (Inspired by DC)
 
-### ⚙️ Languages
-`Python` · `SQL` · `Java` · `C++` · `R` · `JavaScript`
+- **Batman** → Engineering discipline, preparation, reliability  
+- **Alfred** → Clean code, maintainability, long-term thinking  
+- **Justice League** → Collaboration across systems and teams  
+- **Batcave** → Observability, monitoring, and deep system insight  
 
-### ☁️ Cloud & Big Data
-`AWS (S3, Glue, Lambda, IAM)` · `Databricks` · `Snowflake` · `EMR`
+<em style="color:#7f848e;">
+I believe great systems are built quietly — stable, resilient, and always ready.
+</em>
 
-### 🔄 Data Engineering
-`Apache Airflow` · `PySpark` · `Kafka` · `CDC Pipelines`
+---
 
-### 🗄️ Databases
+## 🕶️ Technical Stack
+
+### Languages
+`Python` · `SQL` · `Java` · `C++` · `JavaScript` · `R`
+
+### Data & Cloud
+`AWS (S3, Glue, Lambda, EMR, IAM)` · `Snowflake` · `Databricks` · `Athena`
+
+### Data Engineering
+`Apache Airflow` · `PySpark` · `Kafka` · `Debezium` · `CDC Pipelines`
+
+### Databases
 `PostgreSQL` · `MongoDB` · `DynamoDB` · `Cassandra`
 
-### 🧰 Tools
-`Docker` · `Git` · `Linux` · `Terraform (basic)` · `Jira`
+### DevOps & Tooling
+`Docker` · `Git` · `Linux` · `Terraform (foundational)` · `Jira`
 
 ---
 
-## 🏗️ Selected Projects (Wayne Enterprises R&D)
+## 🏗️ Selected Work
 
-🟡 **Change Data Capture (CDC) Pipeline**  
-- Built an end-to-end CDC pipeline using **Debezium, Kafka, PySpark, and Snowflake**
-- Processed transactional changes with **near-real-time ingestion**
-- Designed for **fault tolerance and schema evolution**
+### 🔶 Change Data Capture Platform
+- Designed a **CDC pipeline** using **Debezium, Kafka, PySpark, and Snowflake**
+- Enabled near-real-time propagation of transactional changes
+- Implemented schema evolution handling and failure recovery mechanisms
 
-🟡 **Reddit Data Ingestion & Analytics Platform**  
-- Scraped Reddit data using Python
-- Orchestrated pipelines with **Airflow**
-- Stored raw data in **AWS S3**, transformed with **Glue & PySpark**
-- Enabled downstream analytics via **Athena & dashboards**
+### 🔶 Reddit Analytics Data Platform
+- Built ingestion pipelines using **Python and Airflow**
+- Stored raw and curated data in **AWS S3**
+- Transformed datasets with **Glue & PySpark**
+- Enabled analytics using **Athena** for downstream querying
 
-🟡 **Traffic Crash Severity Prediction**  
-- Analyzed Chicago crash data (CPD Open Data)
-- Built ML pipelines to predict injury severity
-- Focused on **data cleaning, feature engineering, and model evaluation**
+### 🔶 Traffic Crash Severity Modeling
+- Processed large-scale public datasets from Chicago Open Data
+- Performed feature engineering and ML model evaluation
+- Focused on data quality, reproducibility, and interpretability
 
 ---
 
-## 📊 GitHub Stats (Batcomputer)
+## 📊 GitHub Intelligence
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leeeboy&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leeeboy&theme=dark&hide_border=true&background=0d1117" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=leeeboy&show_icons=true&hide_border=true&bg_color=0d1117&title_color=E6C36A&icon_color=E6C36A&text_color=9da5b4" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leeeboy&hide_border=true&background=0d1117&ring=E6C36A&fire=E6C36A&currStreakLabel=E6C36A&sideLabels=9da5b4" height="160"/>
+</p>
+
+<!-- Contribution Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leeeboy&bg_color=0d1117&color=9da5b4&line=E6C36A&point=E6C36A&area=true&hide_border=true" />
 </p>
 
 ---
 
-## 🦇 Currently Training For
-- 🚀 Data Engineer / Software Engineer roles
-- 📦 Building production-ready pipelines (not toy projects)
-- 🧪 System design + scalability + reliability
+## 🦇 Current Focus
+- Designing **production-grade data pipelines**
+- Improving **system reliability & observability**
+- Preparing for **backend + data engineering interviews**
 
 ---
 
-## 🦶 Contact the Bat-Signal
+## 📡 Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/leelalochan">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=E6C36A"/>
   </a>
   <a href="mailto:leelalochan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-1c1c1c?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=E6C36A"/>
   </a>
 </p>
 
 ---
 
+<!-- Rotating Quote -->
 <p align="center">
-  <em>“Gotham needs data. I build pipelines.”</em> 🦇
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=It’s%20not%20who%20I%20am%20underneath%2C%20but%20what%20I%20do%20that%20defines%20me&author=Bruce%20Wayne" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1c1c,100:000000&height=120&section=footer"/>
+  <span style="color:#7f848e;"><em>“It’s not about being visible. It’s about being dependable.”</em></span>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1c1f26,100:0d1117&height=90&section=footer" />
 </p>
