@@ -11,7 +11,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1c1c1c&height=200&section=header&text=I%20Am%20The%20Night&fontSize=40&fontColor=ffffff" />
 </p>
 
-<h1 align="center">🦇 Leela Lochan Madisetty</h1>
+<h1 align="center">🦇 Leela Lochan Madisetti</h1>
 <h3 align="center">Data Engineer | Software Engineer | Builder of Scalable Systems</h3>
 
 <p align="center">
