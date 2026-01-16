@@ -35,6 +35,7 @@ My focus lies in designing **scalable data platforms**, **event-driven pipelines
 - 🌃 Based in **Atlanta, USA**
 - 🎯 Targeting **Data Engineer / Software Engineer** roles
 
+---
 
 <em style="color:#7f848e;">
 I believe great systems are built quietly — stable, resilient, and always ready.
