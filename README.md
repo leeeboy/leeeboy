@@ -70,8 +70,8 @@
 ## 📊 GitHub Stats (Batcomputer)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0d1117" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=leeeboy&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leeeboy&theme=dark&hide_border=true&background=0d1117" height="165"/>
 </p>
 
 ---
@@ -86,10 +86,10 @@
 ## 🦶 Contact the Bat-Signal
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/leelalochan">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:leelalochan@gmail.com">
     <img src="https://img.shields.io/badge/Email-1c1c1c?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
