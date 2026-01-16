@@ -82,20 +82,6 @@ I believe great systems are built quietly — stable, resilient, and always read
 
 ---
 
-## 📊 GitHub Intelligence
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leeeboy&show_icons=true&hide_border=true&bg_color=0d1117&title_color=E6C36A&icon_color=E6C36A&text_color=9da5b4" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leeeboy&hide_border=true&background=0d1117&ring=E6C36A&fire=E6C36A&currStreakLabel=E6C36A&sideLabels=9da5b4" height="160"/>
-</p>
-
-<!-- Contribution Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leeeboy&bg_color=0d1117&color=9da5b4&line=E6C36A&point=E6C36A&area=true&hide_border=true" />
-</p>
-
----
-
 ## 🦇 Current Focus
 - Designing **production-grade data pipelines**
 - Improving **system reliability & observability**
