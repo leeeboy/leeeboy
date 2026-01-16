@@ -2,8 +2,9 @@
      THE DARK KNIGHT MODE
 ======================== -->
 
+<!-- Hero Section with Flying Batman -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1c1f26&height=160&section=header&text=I%20Am%20The%20Night&fontSize=36&fontColor=E6C36A&fontAlignY=55" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTNsYTdmNG9mb3BoYXZ6bWhna250amdlMWRiN3gwNzBkaTNmZWFrMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0NwGpoOVLTAyUJSo/giphy.gif" width="700" alt="Batman flying" />
 </p>
 
 <h1 align="center" style="color:#E6C36A;">Leela Lochan Madisetti</h1>
@@ -34,14 +35,6 @@ My focus lies in designing **scalable data platforms**, **event-driven pipelines
 - 🌃 Based in **Atlanta, USA**
 - 🎯 Targeting **Data Engineer / Software Engineer** roles
 
----
-
-## 🦇 Gotham Principles (Inspired by DC)
-
-- **Batman** → Engineering discipline, preparation, reliability  
-- **Alfred** → Clean code, maintainability, long-term thinking  
-- **Justice League** → Collaboration across systems and teams  
-- **Batcave** → Observability, monitoring, and deep system insight  
 
 <em style="color:#7f848e;">
 I believe great systems are built quietly — stable, resilient, and always ready.
