@@ -26,14 +26,14 @@
 
 ## 🦇 Profile
 
-I am a **Computer Science graduate student** at **Illinois Institute of Technology**, with prior industry experience as a **Systems Engineer at Tata Consultancy Services**.  
+I am a **Computer Science graduate student** from **Illinois Institute of Technology**, with prior industry experience as a **Systems Engineer at Tata Consultancy Services**.  
 My focus lies in designing **scalable data platforms**, **event-driven pipelines**, and **cloud-native architectures** with production-level discipline.
 
 - 🎓 MS Computer Science — *May 2025*
 - 💼 Analyst @ HDSupply
-- 💼 Ex-Systems Engineer — *TCS*
+- 💼 Ex-SDET — *TCS*
 - 🌃 Based in **Atlanta, USA**
-- 🎯 Targeting **Data Engineer / Software Engineer** roles
+- 🎯 Targeting **Data Engineer / Software Engineer Engineer in Test (SDET) / Data Analyst** roles
 
 ---
 
