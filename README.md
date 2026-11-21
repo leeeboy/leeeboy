@@ -6,7 +6,7 @@
 -->
 
 <div align="center">
-  <img src="batman-readme-assets/gotham-banner.svg" width="100%" alt="Retro Gotham terminal banner introducing Leela Lochan Madisetti, Python Backend Software Engineer" />
+  <img src="gotham-banner.svg" width="100%" alt="Retro Gotham terminal banner introducing Leela Lochan Madisetti, Python Backend Software Engineer" />
 
   <h1>🦇 Leela Lochan Madisetti</h1>
   <p><b>Python Backend Software Engineer · Distributed Systems · AWS · Applied AI</b></p>
