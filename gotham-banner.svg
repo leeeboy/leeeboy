@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="340" viewBox="0 0 1100 340" role="img" aria-labelledby="title desc">
+<title id="title">Leela Lochan Madisetti — Gotham Terminal</title>
+<desc id="desc">Retro 1990s-style Batman-inspired Gotham skyline with a golden moon and developer portfolio title.</desc>
+<defs>
+  <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#090c14"/><stop offset="1" stop-color="#161920"/></linearGradient>
+  <radialGradient id="moon"><stop stop-color="#fff3ad"/><stop offset=".78" stop-color="#f2c84c"/><stop offset="1" stop-color="#a57923"/></radialGradient>
+  <filter id="glow" x="-70%" y="-70%" width="240%" height="240%"><feGaussianBlur stdDeviation="9"/></filter>
+  <pattern id="scan" width="5" height="5" patternUnits="userSpaceOnUse"><path d="M0 0H1100" stroke="#fff" opacity=".055"/></pattern>
+  <pattern id="windows" width="22" height="25" patternUnits="userSpaceOnUse"><rect x="7" y="8" width="5" height="9" fill="#efc75c" opacity=".55"/></pattern>
+</defs>
+<rect width="1100" height="340" fill="url(#sky)"/>
+<g opacity=".72" fill="#e3cc80"><circle cx="78" cy="43" r="1.6"/><circle cx="239" cy="78" r="1"/><circle cx="390" cy="33" r="1.5"/><circle cx="488" cy="96" r="1"/><circle cx="700" cy="49" r="1.4"/><circle cx="875" cy="38" r="1"/><circle cx="1054" cy="91" r="1.3"/></g>
+<circle cx="870" cy="122" r="96" fill="#e5ae3d" opacity=".2" filter="url(#glow)"/>
+<circle cx="870" cy="122" r="77" fill="url(#moon)"/>
+<g transform="translate(870 112) scale(1.06)" fill="#101218"><path d="M-62 -10 Q-40 -24 -23 -14 Q-10 -21 -7 -28 L-2 -19 L4 -27 Q12 -20 22 -14 Q39 -24 62 -10 L43 -3 Q32 3 29 13 Q14 7 3 16 L0 25 L-3 16 Q-15 7 -29 13 Q-33 2 -44 -3 Z"/></g>
+<g fill="#080a10"><rect x="0" y="230" width="1100" height="110"/><path d="M0 200H46V176H78V230H103V151H147V230H167V195H205V235H235V162H285V225H316V138H358V230H390V194H435V228H458V175H495V239H520V199H561V229H595V168H648V231H680V205H715V236H747V178H790V226H821V203H866V235H898V170H946V225H970V196H1008V227H1034V184H1080V230H1100V340H0Z"/><path d="M331 138V104H343V138M610 168V130H621V168M923 170V120H933V170" stroke="#080a10" stroke-width="11"/></g>
+<path d="M0 232H1100" stroke="#c9992d" opacity=".4"/>
+<g opacity=".37"><rect x="0" y="170" width="1100" height="170" fill="url(#windows)"/></g>
+<rect x="28" y="31" width="655" height="205" rx="9" fill="#0b0e15" fill-opacity=".88" stroke="#d5a93b" stroke-opacity=".75" stroke-width="2"/>
+<rect x="28" y="31" width="655" height="32" rx="9" fill="#1d2029"/>
+<circle cx="51" cy="46" r="6" fill="#e4b849"/><circle cx="70" cy="46" r="6" fill="#7b7f87"/><circle cx="89" cy="46" r="6" fill="#7b7f87"/>
+<text x="115" y="51" fill="#dac579" font-family="monospace" font-size="14" letter-spacing="1.7">GOTHAM_OS / PROFILE.EXE</text>
+<text x="52" y="96" fill="#f8cd59" font-family="monospace" font-size="16" letter-spacing="2">C:\GOTHAM\DEV&gt; WHOAMI</text>
+<text x="52" y="143" fill="#fff0b2" font-family="monospace" font-weight="bold" font-size="33" letter-spacing="1.1">LEELA LOCHAN MADISETTI</text>
+<text x="52" y="179" fill="#d4d7dc" font-family="monospace" font-size="18">PYTHON BACKEND SOFTWARE ENGINEER</text>
+<text x="52" y="207" fill="#e6c36a" font-family="monospace" font-size="14">FASTAPI  /  AWS  /  DISTRIBUTED SYSTEMS  /  AI</text>
+<rect x="28" y="264" width="1044" height="43" rx="4" fill="#0e1018" stroke="#b68b34" stroke-opacity=".7"/>
+<text x="50" y="291" fill="#ffdf87" font-family="monospace" font-size="14" letter-spacing="2.5">★ THE DARK KNIGHT OF BACKEND SYSTEMS ★</text>
+<text x="884" y="291" fill="#e4c16b" font-family="monospace" font-size="14">ATLANTA, GA</text>
+<rect width="1100" height="340" fill="url(#scan)"/>
+<rect x="3" y="3" width="1094" height="334" rx="8" fill="none" stroke="#b9913e" stroke-width="3" opacity=".85"/>
+</svg>
